@@ -29,7 +29,7 @@ I find gaps between what exists and what should — building to make things bett
 
 ### ⚡ Beyond the Office
 When I’m not building for businesses, I’m creating at home:
-* 🏗️ **DIY Home Projects:** Constant home improvements large an small. Re-wiring electrical, custom furniture, interior design, etc.
+* 🏗️ **DIY Home Projects:** Constant home improvements large and small. Re-wiring electrical, custom furniture, interior design, etc.
 * 🎸 **Music Production:** Mixing, recording and writing music.
 * 🛹 **Staying Active:** Skateboarding, snowboarding, yoga, and outdoor exploration.
 
