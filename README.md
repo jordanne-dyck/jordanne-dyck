@@ -56,7 +56,7 @@ Runs on OpenShift: containers built in-cluster with Shipwright, deployed from gi
 
 #### [FundLocal](https://fundlocal-ljmo.vercel.app/) · *AI-native community investing, capstone prototype*
 
-Capstone for the Product Faculty AI Product Management Certification. A community investment feature which makes community-scale investing viable, Designed for Wealthsimple and AI PM Capstone project. 
+Capstone for the Product Faculty AI Product Management Certification. A community investment feature which makes community-scale investing viable. Designed for Wealthsimple and AI PM Capstone project. 
 
 Live prototype: an [investor experience](https://fundlocal-ljmo.vercel.app/) (values intake, AI matching, portfolio) and a [compliance experience](https://fundlocal-ljmo.vercel.app/?view=compliance) (proposal builder, AI evaluation, coaching). AI suggests, a human decides at every critical step.
 
