@@ -1,18 +1,38 @@
 # Hi, I'm Jordanne! 🐱
 
-**Product & AI Builder · 15+ years shipping at scale · Toronto**
+**Sr. Product Manager · I build DTC products that bridge human and digital moments at scale · Toronto**
 
 [**Ask jordbot about my work →**](https://www.jordannedyck.com) · [LinkedIn](https://www.linkedin.com/in/jordannedyck) · [Email](mailto:jordanne.dyck@gmail.com)
 
-I build AI products customers actually use, and I measure whether they work. At DECIEM (The Ordinary) I shipped agentic AI to production before most companies had a strategy for it. Now I build it end to end myself, evals and monitoring included ([how I evaluate it](https://github.com/jordanne-dyck/jordannedyck-ai/blob/master/EVALS.md)).
+I work in complex, often regulated categories where customers need expert guidance to choose well, whether they're picking a product or signing up for a service: beauty, luxury, pharmacy, grocery, retail and finance. My job is deciding where people guide the customer and where technology does, then building both sides and the handoff between them.
 
-My domain is product growth as one system: acquisition, personalization, retention and loyalty. I've done it inside a 16-million-member loyalty ecosystem at Loblaw Digital, and at DECIEM, taking digital from near-zero to $150M+ in annual DTC revenue.
+At DECIEM (The Ordinary) I made that call three times. Regimen Builder gave new customers a personalized routine. The AI Personal Shopper was built on top of it. Premium service automation cut resolution time 86% while human agents kept the cases that needed them. Over six years I went from Head of Digital to Director, Digital Product Management, while annual DTC revenue grew from near-zero to $150M+ and the customer base to over 4 million accounts.
 
-I own the solution in whatever role it needs: strategy, data, design or operations. I work with engineering as a counterpart through the build, not a stakeholder at handoff.
+Before that I led growth and CRM at Loblaw Digital, across 16 million-plus loyalty customers. My career started in consumer research at Shoppers Drug Mart.
 
-**Looking for:** Senior or Staff Product Manager roles at a high-growth company challenging how its industry works. Canadian ideally.
+I own the solution in whatever role it needs: setting the strategy, building the product, or the challenger work of making what should exist but doesn't yet. I work with engineering as a counterpart through the build, not a stakeholder at handoff. I still build: the AI on my own site is mine end to end, evals and monitoring included ([how I evaluate it](https://github.com/jordanne-dyck/jordannedyck-ai/blob/master/EVALS.md)).
 
-**Now:** Digital Strategist at Warai Neko, my freelance agency. Independent since November 2025.
+**Open to:** Senior, Group or Staff Product Manager, Director or Head of Product, ideally at a high-growth Canadian company challenging how its industry works. Also digital consulting.
+
+**Now:** Digital Strategist at Warai Neko, my independent practice, since June 2026.
+
+---
+
+### 📈 Highlighted Ships
+
+Six of the 100+ features I shipped at DECIEM (The Ordinary), as Head of Digital and then Director, Digital Product Management, 2019–2025.
+
+**Where people guide and where technology does**
+
+- **Regimen Builder · 35% higher conversion, 40% higher AOV.** 40% of service tickets were new customers asking where to start. I mystery-shopped every channel and each gave a different answer. I brought CX, brand, the lab, legal and regulatory to one central knowledge base, then built a guided tool that gave each customer a personalized routine. It became the foundation the AI Personal Shopper was built on.
+- **AI Personal Shopper · concept to production in 6 months.** Built the first version myself, tested it against Salesforce Agentforce, chose Agentforce for production, piloted in Canada, then handed it to the CX team to scale globally. The prototype Salesforce featured at **NRF 2025** unified discovery, order management and checkout in one conversation. In production I ran recommendations and order operations as two live halves to learn faster; joining them was the next step when my role ended.
+- **Premium service automation · 86% faster resolution.** 5,000+ tickets a month, resolution stretching to weeks, 70% of them repetitive. Started narrow, measured quality and sentiment, and scaled only what held. I defined the escalation logic and guardrails that decide when a case leaves automation for a human agent, and brought the service team along by taking the repetitive work off them. Customers couldn't tell the difference.
+
+**The platform, channels and tools underneath**
+
+- **Platform transformation · $150M+ revenue, 150+ countries.** Moved a DIY ecommerce stack, buckling under ~80% YoY growth, to a unified Salesforce ecosystem. Result: 99.95% uptime, 40% faster page loads, 18% conversion improvement.
+- **TikTok Shop · zero to a $30M channel, launched 2023.** The first brand fully integrated with TikTok Shop through Salesforce Commerce Cloud, not a catalog upload. Worked with Salesforce and TikTok to take their beta integration to production. It became DECIEM's strongest acquisition channel and the template other Estée Lauder brands followed.
+- **Gemini rollout · 75% adoption.** Deployed Gemini company-wide with tiered governance. The highest adoption of any internal tool launch at DECIEM.
 
 ---
 
@@ -23,7 +43,7 @@ I own the solution in whatever role it needs: strategy, data, design or operatio
 Ask **jordbot**, the AI assistant on the site, anything about my work. It answers from a knowledge base of my own record, cites a source for every claim, and says when the record does not cover something.
 
 I run the site the way I'd run an AI product at work:
-- **Evaluated before it ships.** 80 cases, 7 must-pass checks and my own blind scoring. Every comparison carries a 95% range, so a gap inside the noise is reported as noise. [How it's evaluated →](https://github.com/jordanne-dyck/jordannedyck-ai/blob/master/EVALS.md)
+- **Evaluated before it ships.** 88 cases, 8 must-pass checks and my own blind scoring. Every comparison carries a 95% range, so a gap inside the noise is reported as noise. [How it's evaluated →](https://github.com/jordanne-dyck/jordannedyck-ai/blob/master/EVALS.md)
 - **Monitored after.** Every answer is labelled for grounding, moderation and prompt injection. Volume, latency and spend are public on the [dashboard](https://www.jordannedyck.com/dashboard).
 - **The evals made the calls.** They chose the answering model in two blind rounds, kept newer embedding models out after they ranked worse, caught follow-up answers that cited nothing, and found a false claim in my own knowledge base.
 
@@ -56,22 +76,9 @@ Runs on OpenShift: containers built in-cluster with Shipwright, deployed from gi
 
 #### [FundLocal](https://fundlocal-ljmo.vercel.app/) · *AI-native community investing, capstone prototype*
 
-Capstone for the Product Faculty AI Product Management Certification. A community investment feature which makes community-scale investing viable. Designed for Wealthsimple and AI PM Capstone project. 
+A community investment feature designed for Wealthsimple, and my capstone for the Product Faculty AI Product Management Certification. The closest competitor shut down in 2024 because manual compliance review cost $800–$3,200 per proposal. AI brings that to $40–$80, which makes the model viable.
 
 Live prototype: an [investor experience](https://fundlocal-ljmo.vercel.app/) (values intake, AI matching, portfolio) and a [compliance experience](https://fundlocal-ljmo.vercel.app/?view=compliance) (proposal builder, AI evaluation, coaching). AI suggests, a human decides at every critical step.
-
----
-
-### 📈 Highlighted Ships
-
-Six of the 100+ features I shipped at DECIEM (The Ordinary), as Head of Digital and then Director, Digital Product Management, 2019–2025.
-
-- **AI Personal Shopper · concept to production in 6 months.** Built the first working version myself in Agentforce: product discovery, education, routine building and order management in one conversation. Piloted it, found the failure modes, then scaled. Salesforce featured it at **NRF 2025**.
-- **Service automation · 86% faster resolution.** 5,000+ tickets a month, resolution stretching to weeks, 70% of them repetitive. Started with a narrow MVP and measured quality and sentiment before scaling. I defined the escalation logic and guardrails that decide what the AI handles and what goes to a person.
-- **Regimen Builder · 35% higher conversion, 40% higher AOV.** I mystery-shopped every channel and each recommended different products; 40% of service tickets were customers asking which to use. Built one central knowledge base with brand, lab, legal and regulatory, then the guided recommender on top. It became the foundation the AI Personal Shopper was built on.
-- **Platform transformation · $150M+ revenue, 150+ countries.** Moved a DIY ecommerce stack, buckling under ~80% YoY growth, to a unified Salesforce ecosystem. Result: 99.95% uptime, 40% faster page loads, 18% conversion improvement.
-- **TikTok Shop · zero to a $30M+ channel.** The first brand fully integrated with TikTok Shop through Salesforce Commerce Cloud, not a catalog upload. Worked with Salesforce and TikTok to take their beta integration to production in 6 months.
-- **Gemini rollout · 75% adoption.** Deployed Gemini company-wide with tiered governance. The highest adoption of any internal tool launch at DECIEM.
 
 ---
 
